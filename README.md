@@ -9,3 +9,7 @@ Build a minimal container for your Go applications.
 - **IPC**
 - **USR**
 - **UTS**
+
+### Components
+
+TO DO.

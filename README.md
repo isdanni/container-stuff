@@ -1,6 +1,6 @@
 # Container-stuff
 
-Build a minimal container for your Go applications.
+Build a minimal container fo Go applications.
 
 ### namespaces
 
